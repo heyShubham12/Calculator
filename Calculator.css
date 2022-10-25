@@ -1,0 +1,38 @@
+.container{
+    height: 530px;
+    width: 390px;
+    background-color: aquamarine;
+    border: 2px solid black;
+
+}
+#display{
+    height: 30%;
+    width: 99%;
+    background-color: grey;
+    border: 2px solid black;
+}
+.button{
+    height:70px;
+    width: 70px;
+    display: inline-block;
+    background-color: beige;
+    margin: 10px;
+    text-align: center;
+    border: 2px solid black;
+    cursor: pointer;
+   
+   
+}
+span{
+   zoom: 3;
+}
+
+#displays{
+    font-size: 55px;
+    overflow: auto;
+
+}
+
+.button:hover{
+    background-color: rgb(86, 170, 170);
+}
